@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ts9o6pcml-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ts9o6pcml-dotnet-basic
